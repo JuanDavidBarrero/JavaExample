@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SwitchExample:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SwitchExample_jar</output-path>
+    <root id="archive" name="SwitchExample.jar">
+      <element id="module-output" name="SwitchExample" />
+    </root>
+  </artifact>
+</component>

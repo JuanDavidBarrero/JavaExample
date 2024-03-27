@@ -26,9 +26,7 @@ public class RaspberryLed {
             buttonThread.start();
 
             while (true) {
-                button.whenPressed(nanoTime -> led2.on());
-                button.whenReleased(nanoTime -> led2.off());
-
+              
                 led.on();
 
                 Thread.sleep(1000);

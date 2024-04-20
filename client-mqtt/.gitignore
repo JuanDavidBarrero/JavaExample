@@ -1,0 +1,6 @@
+.vscode/
+certificate/*
+*.pem
+*.crt 
+*.key
+*.jar

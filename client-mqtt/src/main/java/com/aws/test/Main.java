@@ -15,7 +15,7 @@ public class Main {
     static final String certificate_path = "./certificates/cert.crt";
     static final String private_key_path = "./certificates/priv.key";
     static final String cacert_path = "./certificates/cacert.pem";
-    static final String end_point = "a2i8si908yh9ww-ats.iot.us-east-1.amazonaws.com";
+    static final String end_point = "xxxxxx.iot.us-east-1.amazonaws.com";
     static final String clinet_name = "Test1";
 
     static final String sub_topic = "test/sub";
